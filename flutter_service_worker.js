@@ -5,9 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "45bd3f947f3c3103fa83a4b2e9f67a83",
 "macobuk.dev_logo.png": "8d596bf849d1acb52a27023083363832",
-"index.html": "f279489b302cca4a9dc0dd97534f8f69",
-"/": "f279489b302cca4a9dc0dd97534f8f69",
-"main.dart.js": "d845bacd17e18f57754bb64edc934bb5",
+"index.html": "1d316d21b5dab8f265275f86ee3358d5",
+"/": "1d316d21b5dab8f265275f86ee3358d5",
+"main.dart.js": "ae632df4c6423ed9574a061c30c1ebf0",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",

@@ -17876,7 +17876,7 @@ Bw:function Bw(a){this.a=a},
 BF:function BF(a){this.a=a},
 MI(){var s=0,r=A.Z(t.z),q
 var $async$MI=A.a_(function(a,b){if(a===1)return A.W(b,r)
-while(true)switch(s){case 0:q=A.j8(B.b1,"https://docs.google.com/document/d/e/2PACX-1vTdyxgWmxtYu43k_HFYLLdDhQHfX-r70-CyDfO5KtqQ3QUOFqNJ3aqUeqKGQxxv41ENV0gTSyNR8Xiv/pub",B.B,!1)
+while(true)switch(s){case 0:q=A.j8(B.b1,"https://drive.google.com/file/d/1zVV_s3x_0GvRCkeuOkDX63DyhWmgI4LE/view?usp=sharing",B.B,!1)
 s=5
 return A.O(A.fh(q),$async$MI)
 case 5:s=b?2:4
@@ -57379,7 +57379,7 @@ r=t.p
 return A.fo(A.a([p,B.uG,A.fN(A.r7(new A.bv(B.A6,A.fo(A.a([A.uH(A.a([new A.B5(1,B.lJ,new A.CW(q,q,q,q,A.ad8(q,q,B.j,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),B.A,q,!1,q,new A.bv(B.a3,A.jE(q,A.f6("Send me an email",A.dm(q,q,A.ax(a).fy,q,q,q,q,q,q,q,q,24,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.ac,!1,q,q,q,q,q,q,q,q,q,q,this.gR2(),q,q,q,q,q,q),q),q),q)],r),B.a0,B.M,B.bI)],r),B.cb,B.M),q),new A.dP(B.h,q,q,s,B.Ci,q,B.an),B.b8),q,o)],r),B.a0,B.M)},
 lr(){var s=0,r=A.Z(t.z),q
 var $async$lr=A.a_(function(a,b){if(a===1)return A.W(b,r)
-while(true)switch(s){case 0:q=A.j8(B.b1,"mailto:macobu.dev@gmail.com?subject=Contact Form&body=Hello, Maciej",B.B,!1)
+while(true)switch(s){case 0:q=A.j8(B.b1,"mailto:macobu.dev@gmail.com?subject=Contact Form&body=Hello Maciej,",B.B,!1)
 s=5
 return A.O(A.fh(q),$async$lr)
 case 5:s=b?2:4
